@@ -11,7 +11,7 @@ In this project I will be learning :
 
 * [Ubuntu 20.04 LTS](http://releases.ubuntu.com/20.04/) - Operating system reqd.
 
-* [GCC 10.5.1](https://gcc.gnu.org/gcc-10.5/) - Compiler used
+* [GCC 10.5.1](https://gcc.gnu.org/gcc-10) - Compiler used
 
 
 ## :warning: Prerequisites
