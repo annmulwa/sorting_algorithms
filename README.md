@@ -1,19 +1,41 @@
-#0x1B. C - Sorting algorithms & Big O
-C
-Algorithm
-Data structure
- By: Alexandre Gautier
- Weight: 2
- Project to be done in teams of 2 people (your team: Ann Mulwa, Eddy Kamau)
- Project will start Jan 17, 2024 6:00 AM, must end by Jan 24, 2024 6:00 AM
- Checker will be released at Jan 19, 2024 12:00 AM
- An auto review will be launched at the deadline
+# :shell: 0x1B. C - Sorting algorithms & Big O :shell:
 
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+In this project I will be learning :
 
-General
-At least four different sorting algorithms
-What is the Big O notation, and how to evaluate the time complexity of an algorithm
-How to select the best sorting algorithm for a given input
-What is a stable sorting algorithm
+-At least four different sorting algorithms
+-What is the Big O notation, and how to evaluate the time complexity of an algorithm
+-How to select the best sorting algorithm for a given input
+-What is a stable sorting algorithm
+
+## :running: Getting Started
+
+* [Ubuntu 20.04 LTS](http://releases.ubuntu.com/20.04/) - Operating system reqd.
+
+* [GCC 10.5.1](https://gcc.gnu.org/gcc-10.5/) - Compiler used
+
+
+## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `gcc` installed
+
+```
+$ sudo apt-get install git
+```
+
+Compile with:
+```
+$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89
+```
+
+
+## :blue_book: Authors
+* **Eddie Kamau** - [@worksofeddy](https://github.com/worksofeddy)
+* **Ann Mulwa** - [@annmulwa](https://github.com/annmulwa)
+
+## :mega: Acknowledgments
+
+* alxafrica.com (providing guidance)
